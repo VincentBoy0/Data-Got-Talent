@@ -1,0 +1,3 @@
+Cuộc thi Data Got Talent
+Phân tích dữ liệu của 1 rạp phim giúp doanh nghiệp phát triển doanh thu dựa trên dữ liệu có sẵn bao gồm khách hàng, vé, thể loại phim,...
+Và viết thành 1 câu chuyện (Data story telling)
